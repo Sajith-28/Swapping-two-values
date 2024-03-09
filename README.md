@@ -1,8 +1,8 @@
 # Swapping-two-values
-## NAME : SAJITH AHAMED F
-## DATE :09/03/24
+# NAME : SAJITH AHAMED F
+# DATE :09/03/24
 # DEPARMENT:AIML
-## REG NO: 212223240144
+# REG NO: 212223240144
 
 ## AIM:
 To write a python program for swapping of two values
