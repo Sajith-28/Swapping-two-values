@@ -1,4 +1,9 @@
 # Swapping-two-values
+## NAME : SAJITH AHAMED F
+## DATE :09/03/24
+# DEPARMENT:AIML
+## REG NO: 212223240144
+
 ## AIM:
 To write a python program for swapping of two values
 ## EQUIPEMENT'S REQUIRED: 
@@ -18,6 +23,7 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+![Screenshot 2024-03-09 090115](https://github.com/Sajith-28/Swapping-two-values/assets/149937471/3f5350c8-2df8-4b96-9c53-0ad984ca2266)
 
 
 
