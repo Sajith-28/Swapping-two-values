@@ -23,16 +23,9 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-```
-a=input()
-b=input()
-a,b=b,a
-print("Swapped values are:",a,b)
-```
+
 
 ## OUTPUT :
-
-![Screenshot 2024-03-09 093102](https://github.com/Sajith-28/Swapping-two-values/assets/149937471/6b8c9f37-2013-4b65-a5d2-960579e9e977)
 
 
 ## RESULT:
