@@ -24,9 +24,17 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 
+```PYTHON
+DEVELOPED BY : SAJITH AHAMED F
+REG NO: 212223240144
+a=input()
+b=input()
+a,b=b,a
+print("Swapped values are:",a,b)
+```
 
 ## OUTPUT :
-
+![alt text](<Screenshot 2024-04-08 214435.png>)
 
 
 ## RESULT:
